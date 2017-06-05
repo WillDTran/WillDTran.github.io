@@ -1,0 +1,28 @@
+﻿.navigation-bar {
+       width: 115%;
+    height: 150px;
+    background-color: white;
+}
+.logo {
+   display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    height: 140px;
+    margin-right: 200px;
+    margin-top: 15px;
+    position: relative;
+    top: -15px;
+    right: -70px;
+    
+}
+.navigation-bar > a {
+   display: inline-block;
+    vertical-align: top;
+    margin-right: 60px;
+    height: 90px;
+    line-height: 210px;
+    font-size: 30px;
+    top: 20px;
+    font-weight: 500;
+    right: -70px;
+}
